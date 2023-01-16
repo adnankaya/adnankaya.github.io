@@ -123,4 +123,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Menu:
-    - Temporary: tmp.md
+    - Projects: projects.md

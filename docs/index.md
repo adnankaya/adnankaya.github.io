@@ -26,8 +26,8 @@
 
 ## Experience
 
-### Freelance Software Engineer at Upwork [ Currently ]
-
+### Upwork [ Currently ]
+    Freelance Software Engineer
 **Some Projects I completed for my clients :**
 
 - Migrated existing python 2.7 and django 1.9 project to python3.11 and django 3.2.x. First of all I added unittests to the project to make sure everything works as expected after version migration. Also I optimized code base to speed up page load and reduce database calls. In the end I deployed the project into AWS EC2 ubuntu server with apache webserver.
@@ -41,16 +41,23 @@
 </a>
 
 
-### Backend Devekoper at Akinon [ 1 year 7 months ]
+### Akinon
+    As a Backend Developer
+    [ 1 year 7 months ]
 - Development and maintenance of existing e-commerce, admin and ETL projects with Python, Django, PostgreSQL, Redis, Celery, Git, Bitbucket
 
-### Software Engineer at Karacasu Textile R&D Center [ 2 years 10 months ]
+### Karacasu Textile R&D Center
+    As a Software Engineer
+    [ 2 years 10 months ]
 - Design, development, maintenance, deployment and management of an in-house web application with Python, Django, Angular, MySQL, Git, Bitbucket. The web application allows to calculate the costs of manufacturing the yarn, to follow the sales and the proposals for the clients, and to follow the stocks of raw materials.
 - Developed computer vision GUI tool with Python, OpenCV, Tkinter for manipulating  captured frames.
 - Mentored a computer engineering student. Helped him to learn Python, Django, Javascript, Angular, Git 
 
-### Fullstack Developer in a Small Dev Team [ 2 months ]
+### Small Dev Team
+    As a Fullstack Developer
+    [ 2 months ]
 - Developed, maintained existing an ERP project by using python, flask, angularjs, mongodb, git, bitbucket
+- Developed web crawlers using python, scrapy
 
 
 
