@@ -1,0 +1,13 @@
+<div class="md-copyright">
+    {% if config.copyright %}
+    <div class="md-copyright__highlight">
+        {{ config.copyright }}
+    </div>
+    {% endif %}
+    {% if not config.extra.generator == false %}
+    Made with
+    <a href="https://adnankaya.github.io/mulakat/" target="_blank" rel="noopener">
+        Material MkDocs
+    </a>
+    {% endif %}
+</div>

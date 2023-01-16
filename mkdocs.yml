@@ -1,0 +1,126 @@
+# Project information
+site_name: Adnan Kaya's github page
+site_url: https://adnankaya.github.io/
+site_author: Adnan Kaya
+site_description: >-
+  Software Engineer Adnan Kaya's github page
+
+# Repository
+repo_name: adnankaya.github.io
+repo_url: https://github.com/adnankaya.github.io
+
+# Copyright
+copyright: Copyright &copy; 2023 - 2071 Adnan Kaya
+theme:
+  custom_dir: .overrides
+  name: material
+  language: en
+  features:
+    - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    # - navigation.footer
+    - navigation.indexes
+    - navigation.path
+    - navigation.expand
+    - navigation.instant
+    - navigation.tracking
+    - navigation.prune
+    - navigation.top
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - search.suggest
+    - search.highlight
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Dark
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Light
+      primary: yellow
+      accent: yellow
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+  
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  # - social:
+  #     cards_font: Roboto
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/adnankaya
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/adnanpy
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/adnan-kayace
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@adnan-kaya
+    - icon: fontawesome/brands/telegram
+      link: https://www.upwork.com/freelancers/~01250366c1d60c34c3
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Menu:
+    - Temporary: tmp.md
