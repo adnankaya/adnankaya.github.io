@@ -1,6 +1,16 @@
 # Adnan Kaya (Software Engineer) 
 
->  Hi! Welcome to my page. As a software engineer I do love building solutions to make life easier for everyone. Also I love sharing whatever I know. You can checkout my Turkish and English articles on my personal blog, medium, linkedin. And also you can watch my video tutorials on youtube.
+**Hi! Welcome to my page.**
+
+As a highly skilled and experienced software engineer, I possess a unique blend of technical expertise and creativity that allows me to deliver exceptional solutions to clients. My proficiency in a wide range of technologies, including `Python`, `Django`, `Flask`, `Scrapy`, `Tkinter`, `PostgreSQL`, `MongoDB`, `MySQL`, `JavaScript`, `TypeScript`, `Angular`, `Vue.js`, `Docker`, `DigitalOcean Apps`, `Linux Server`, `Nginx`, and `Apache`, allows me to tackle any project with confidence and efficiency.
+
+I have a proven track record of successfully delivering projects on time and within budget, while consistently exceeding client expectations. My ability to understand the needs of my clients and provide tailor-made solutions, coupled with my ability to work well in a team or independently, makes me an asset to any organization.
+
+I am dedicated to staying up-to-date with the latest technologies and trends in the industry, and I am always eager to take on new challenges. I am confident that my skills and experience make me an excellent candidate for any software engineering project and I am excited to bring my expertise to your organization.
+
+My portfolio includes a diverse array of projects such as e-commerce platforms, social networks, booking systems, stock tracking systems, product structure tree, cost calculating tools, article publishing platforms, Q&A platforms and employee task tracking apps.
+
+I am highly skilled in developing reliable, powerful, well-designed and cleanly coded projects that meet the unique needs of each client. My expertise in creating robust and efficient solutions is matched by my commitment to delivering projects on time and within budget.
 
 - **Skills:** <code>python, django, flask, tkinter, scrapy, postgresql, mysql, mongodb, redis, celery, elasticsearch, javascript/typescript, angular, git, bash, docker
 </code>
