@@ -2,15 +2,22 @@
 
 **Hi! Welcome to my page.**
 
-As a highly skilled and experienced software engineer, I possess a unique blend of technical expertise and creativity that allows me to deliver exceptional solutions to clients. I am highly skilled in developing reliable, powerful, well-designed and cleanly coded projects that meet the unique needs of each client. My expertise in creating robust and efficient solutions is matched by my commitment to delivering projects on time and within budget.
-
-I have a proven track record of successfully delivering projects on time and within budget, while consistently exceeding client expectations. My ability to understand the needs of my clients and provide tailor-made solutions, coupled with my ability to work well in a team or independently, makes me an asset to any organization.
-
-My portfolio includes a diverse array of projects such as e-commerce platforms, social networks, booking systems, stock tracking systems, product structure tree, cost calculating tools, article publishing platforms, Q&A platforms and employee task tracking apps.
-
 - **Skills:** <code>python, django, flask, tkinter, scrapy, postgresql, mysql, mongodb, redis, celery, elasticsearch, javascript/typescript, angular, git, bash, docker, docker-compose, digital ocean, aws ec2
 </code>
 
+!!! success "Overview"
+    <h2>
+    **I look forward to the opportunity to collaborate with you and bring your ideas to life.**
+    </h2>
+    <h3>
+    As a highly skilled software engineer with extensive experience in developing web applications, I bring a wealth of knowledge and expertise to any project. I have a passion for using cutting-edge technologies to solve complex problems and create seamless user experiences by developing reliable, powerful, well-designed and cleanly coded projects that meet the unique needs of each client.
+
+    With a strong background in **Python, Django, Flask, Angular, Vue.js, and Tkinter**, I have developed a range of impressive projects that showcase my technical expertise. From my yarn cost management and inventory tracking web app, to my criminal search app that utilizes microservices architecture, to my e-commerce, social networking, job posting and booking web apps, I have a proven track record of delivering exceptional results.
+
+    I have a deep understanding of software development best practices and a proficiency in technologies such as **Docker, Nginx, Apache, Linux, Git, Digital Ocean, and AWS EC2**. These skills, along with my attention to detail and commitment to delivering high-quality results, make me an ideal candidate for any project.
+
+    Whether you're looking for a skilled software engineer to bring your vision to life or a partner to help solve complex technical challenges, I am confident in my ability to exceed your expectations.
+    </h3>
 
 
 ## Contact Information
