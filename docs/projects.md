@@ -1,5 +1,15 @@
 # Projects
 
+## Criminal Searching App
+> The app(MVP Project) allows users to search criminals on the multiple services.
+
+- Tech stack: `python`, `flask`, `celery`, `redis`, `mongodb`, `vuejs`, `docker`, `gunicorn`, `digital ocean`, `microservices`
+
+## Effective Yarn Cost Management and Inventory Tracking
+> Leveraged my expertise in web development to bring innovation to my company. I successfully designed, developed, maintained, and deployed an internal web application for a yarn manufacturing company using Django Rest Framework & Angular. This solution effectively calculated costs, tracked sales proposals, and monitored raw material stocks, resulting in improved efficiency and accuracy.
+
+- Tech stack: `python`, `django`, `angular`, `mysql`, `git`, `ubuntu`, `apache`
+
 ## Billboard Project
 - Term "bill" is like a post, advertisement, publishment
 - Developed a billboard project with python, django, bootstrap. Features:

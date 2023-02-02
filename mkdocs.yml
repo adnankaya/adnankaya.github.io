@@ -85,9 +85,9 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - md_in_html
   - def_list
   - footnotes
-  - md_in_html
   - toc:
       permalink: true
   - pymdownx.arithmatex:
