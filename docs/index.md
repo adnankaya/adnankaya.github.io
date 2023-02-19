@@ -5,6 +5,26 @@
 - **Skills:** <code>python, django, flask, tkinter, scrapy, postgresql, mysql, mongodb, redis, celery, elasticsearch, javascript/typescript, angular, git, bash, docker, docker-compose, digital ocean, aws ec2
 </code>
 
+!!! tip "I can work as"
+    <ul style="font-weight: bold; font-size: 16px; color: #212121">
+        <li>
+            Your python, django, flask trainer
+        </li>
+        <li>
+            Your web development team mate
+        </li>
+        <li>
+            Your dream project or MVP developer
+        </li>
+        <li>
+            Your technical writer
+        </li>
+        <li>
+            Your software development consultant
+        </li>
+    </ul>
+
+
 !!! success "Overview"
     <h2>
     **I look forward to the opportunity to collaborate with you and bring your ideas to life.**
@@ -22,8 +42,10 @@
 
 ## Contact Information
 
-!!! abstract "Email"
-    <h3 style="font-weight: bold;">adnankaya.cpp@gmail.com</h3>
+!!! abstract "Contact Me!"
+    <div>
+        <h3 style="font-weight: bold;">adnankaya.cpp@gmail.com</h3>
+    </div>
     <a style="margin: 2px;" class="md-button md-button" href="https://www.upwork.com/freelancers/~01250366c1d60c34c3" target="_blank"> Upwork </a>
     <a style="margin: 2px;" class="md-button md-button--primary" href="https://github.com/adnankaya" target="_blank"> Github </a>
     <a style="margin: 2px;" class="md-button" href="https://adnankayace.blogspot.com" target="_blank"> Blogger </a>
