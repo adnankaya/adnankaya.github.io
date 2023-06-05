@@ -2,6 +2,8 @@
 
 **Hi! Welcome to my page.**
 
+Highly skilled and proactive Python developer with a proven track record of delivering high-quality projects ahead of schedule. Known for strong problem-solving skills and the ability to quickly identify and resolve issues. Exceptional communicator with a focus on delivering exceptional customer service. Documents the projects with thoroughness and attention to detail, including well-documented code and reports. Highly recommended for technical expertise, communication skills, and efficient work ethic.
+
 - **Skills:** <code>python, django, flask, tkinter, scrapy, postgresql, mysql, mongodb, redis, celery, elasticsearch, javascript/typescript, angular, git, bash, docker, docker-compose, digital ocean, aws ec2
 </code>
 
@@ -25,19 +27,29 @@
     </ul>
 
 
-!!! success "Overview"
-    <h2>
-    **I look forward to the opportunity to collaborate with you and bring your ideas to life.**
-    </h2>
-    <h3>
-    As a highly skilled software engineer with extensive experience in developing web applications, I bring a wealth of knowledge and expertise to any project. I have a passion for using cutting-edge technologies to solve complex problems and create seamless user experiences by developing reliable, powerful, well-designed and cleanly coded projects that meet the unique needs of each client.
-
-    With a strong background in **Python, Django, Flask, Angular, Vue.js, and Tkinter**, I have developed a range of impressive projects that showcase my technical expertise. From my yarn cost management and inventory tracking web app, to my criminal search app that utilizes microservices architecture, to my e-commerce, social networking, job posting and booking web apps, I have a proven track record of delivering exceptional results.
-
-    I have a deep understanding of software development best practices and a proficiency in technologies such as **Docker, Nginx, Apache, Linux, Git, Digital Ocean, and AWS EC2**. These skills, along with my attention to detail and commitment to delivering high-quality results, make me an ideal candidate for any project.
-
-    Whether you're looking for a skilled software engineer to bring your vision to life or a partner to help solve complex technical challenges, I am confident in my ability to exceed your expectations.
-    </h3>
+!!! success "Feedbacks"
+    <ul>
+    <li>"Great to work with. Quickly identified incorrect syntax causing an error in our Django project. Adnan did his homework/research prior to fully engaging with me ensuring our time was well spent. Highly recommend."</li>
+    
+    <li>"Very good communication. Adnan is fast and efficient and does great work! Thanks so much"</li>
+    <li>"Quick and extremely good work - Adnan was responsive and thorough and his code was clean
+    and easy to utilize. Will hire again!"</li>
+    
+    <li>"Adnan did an excellent job and provided all the support necessary to install and launch the
+    application as per requirements. Excellent adherence to schedule, the project was completed in
+    advance of the final deadline with time to spare."</li>
+    
+    <li>"Adnan finished a very difficult project very quickly."</li>
+    
+    <li>"Excellent execution, fast development and proactive approach. Adnan has documented his work
+    at each milestone and provided progress feedback at each checkpoint of the project with video, screenshots and well documented code and reports. Highly recommended for his quality and velocity of execution well before the deadline."</li>
+    
+    <li>"Adnan did a good job and was hard working during the time on the contract. Will hire again."</li>
+    
+    <li>"He is one of the greatest developers here on upwork. I will definitely be working with him in the
+    future too. If you need help in python django just go for him you will be pleased."</li>
+    <li>Check out my Upwork profile for more -> https://www.upwork.com/freelancers/~01250366c1d60c34c3 </li>
+    </ul>
 
 
 ## Contact Information
