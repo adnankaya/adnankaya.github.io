@@ -2,22 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://adnankaya.github.io/</loc>
-         <lastmod>2023-06-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://adnankaya.github.io/interview/</loc>
-         <lastmod>2023-06-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://adnankaya.github.io/projects/</loc>
-         <lastmod>2023-06-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://adnankaya.github.io/blog/</loc>
-         <lastmod>2023-06-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/tags/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/author/adnankaya/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/author/team/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/2024/09/22/understanding-python-context-manager/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/2024/09/22/understanding-python-thread/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/2024/09/23/draft-my-draft/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/archive/2024/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/blog/category/python/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://adnankaya.github.io/tags/</loc>
+         <lastmod>2024-09-23</lastmod>
     </url>
 </urlset>
