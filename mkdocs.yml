@@ -1,5 +1,5 @@
 # Project information
-site_name: Adnan Kaya's github page
+site_name: Adnan Kaya's Web Page
 site_url: https://adnankaya.github.io/
 site_author: Adnan Kaya
 site_description: >-
@@ -62,6 +62,27 @@ plugins:
   #     cards_font: Roboto
   - minify:
       minify_html: true
+  - tags:
+      tags_file: tags.md
+  - blog:
+      blog_toc: true
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - Development
+        - Deployment
+        - Python
+        - Django
+        - Flask
+        - FastAPI
+        - Software Engineering
+      authors_profiles: true
+      pagination_per_page: 5
+      archive_pagination_per_page: 10
+      categories_pagination_per_page: 10
+      post_slugify: !!python/object/apply:ext.slugs.slugify
+        kwds:
+          short: true
+
 
 # Customization
 extra:
@@ -77,8 +98,11 @@ extra:
       link: https://linkedin.com/in/adnan-kayace
     - icon: fontawesome/brands/medium
       link: https://medium.com/@adnan-kaya
-    - icon: fontawesome/brands/telegram
-      link: https://www.upwork.com/freelancers/~01250366c1d60c34c3
+    - icon: fontawesome/brands/upwork
+      link: https://www.upwork.com/freelancers/adnankayace
+
+extra_css:
+  - stylesheets/extra.css
 
 # Extensions
 markdown_extensions:
@@ -124,4 +148,8 @@ nav:
   - Home: index.md
   - Menu:
     - Projects: projects.md
-    - Interview: interview.md
+    # - Career Journey: career.md
+    # - Interview: interview.md
+  - Blog:
+     - blog/index.md
+     - blog/tags.md
