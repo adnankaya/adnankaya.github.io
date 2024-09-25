@@ -14,3 +14,7 @@ mkdocs gh-deploy --force
 
 
 ```
+
+### ERRORS
+1. cannot find module 'ext.slugs' (No module named 'ext')
+Solution: add your current directory with `export PYTHONPATH=.` on a UNIX-like terminal.

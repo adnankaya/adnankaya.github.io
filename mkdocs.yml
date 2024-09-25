@@ -75,6 +75,10 @@ plugins:
         - Flask
         - FastAPI
         - Software Engineering
+        - Interview
+        - Junior
+        - Medium
+        - Senior
       authors_profiles: true
       pagination_per_page: 5
       archive_pagination_per_page: 10
@@ -88,7 +92,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-2FF69EV554
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/adnankaya
