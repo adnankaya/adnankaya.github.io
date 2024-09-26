@@ -1,13 +1,28 @@
 ---
 date:
-  created: 2024-09-23
+  created: 2024-09-25
+  updated: 2024-09-26
+readtime: 10
+pin: false
+links:
+  - Homepage: index.md#project-layout
+  - Blog index: blog/index.md
+  - External links:
+    - Web Page: https://adnankaya.github.io
+categories:
+  - Junior
+  - Interview
+tags:
+  - tag1
+  - tag2
+  - tag3
+authors:
+  - adnankaya
+slug: the-slug-of-te-article
 ---
 
-# [Draft] my draft
+# my title
 
-This is draft and test 
+first message
 
 <!-- more -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
