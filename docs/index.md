@@ -34,7 +34,17 @@ Highly skilled and proactive software developer with a proven track record of de
 
 ## Experience
 
-???+ quote "Software Engineer | ceet.ai"
+???+ quote "Freelance Software Engineer"
+    - `Python`, `Django`, `Docker`, `HtmX`, `Celery`, `Redis`, `Large Language Models`, `Flux Image Generation`, `Text to Speech Generation`, `Text Generation`, `Prompt Engineering`, `FastAPI`
+    - Building MVP, Saas, AI Powered Web Apps
+    - API building and integration
+    - Developing AI Powered Systems
+
+??? quote "Data Software Engineer | EPAM Systems"
+    - `Python`, `hadoop`, `Apache Spark`, `Big Data`, `Dimensional Modeling`, `Azure`, `Docker`, `Kubernetes`, `CI & CD`
+    - Joined Data Engineering Training program
+
+??? quote "Software Engineer | ceet.ai"
     - Built AI based MVP with `python`, `fastapi`,  `celery`, `redis`, `react`, `docker`, `postgreSQL`, `openAI`, `paperless`, `git & github`. 
     - The app consumes external APIs to fetch documents and leverages openAI LLM api to extract their summary and meaningful recommendations for a specific niche.
 
