@@ -9,7 +9,7 @@
 [Open To Work?](#){ .md-button }
 [Yes](#){ .md-button .md-button--foo }
 
-**Last update:** 23-09-2024
+**Last update:** 21-07-2025
 
 ## About Me
 
