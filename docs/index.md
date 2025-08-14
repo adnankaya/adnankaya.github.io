@@ -156,7 +156,7 @@ Check out my Upwork profile for more!
 </div>
 <div>
     <a style="margin: 2px;font-size:12px;" class="md-button" href="https://www.upwork.com/freelancers/~01250366c1d60c34c3" target="_blank"> Upwork </a>
-    <a style="margin: 2px;font-size:12px;" class="md-button" href="https://devforbiz.com/" target="_blank"> Website </a>
+    <a style="margin: 2px;font-size:12px;" class="md-button" href="https://kayace.com/" target="_blank"> Website </a>
     <a style="margin: 2px;font-size:12px;" class="md-button md-button--primary" href="https://www.linkedin.com/in/adnan-kayace/" target="_blank"> Linkedin </a>
     <a style="margin: 2px;font-size:12px;"  class="md-button md-button--primary"href="https://twitter.com/adnanpy" target="_blank"> Twitter </a>
 </div>
@@ -167,7 +167,7 @@ Check out my Upwork profile for more!
 <a style="margin: 2px; font-size:10px;" class="md-button" href="https://adnankayace.blogspot.com" target="_blank"> Blogger </a>
 <a style="margin: 2px; font-size:10px;" class="md-button" href="https://pytr.info" target="_blank"> pytr.info </a>
 <a style="margin: 2px; font-size:10px;" class="md-button" href="https://fastapi.blog" target="_blank"> fastapi.blog </a>
-<a style="margin: 2px; font-size:10px;" class="md-button" href="https://devforbiz.com/" target="_blank"> Website </a>
+<a style="margin: 2px; font-size:10px;" class="md-button" href="https://kayace.com/" target="_blank"> Website </a>
 <a style="margin: 2px; font-size:10px;" class="md-button" href="https://youtube.com/c/adnankaya" target="_blank"> YouTube </a>
 
 
